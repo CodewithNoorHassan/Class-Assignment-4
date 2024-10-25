@@ -1,7 +1,7 @@
 export const metadata = {
     title:"About"
 }
-export default function () {
+export default function About() {
     return (
         <div>
             <div className="bg-[rgb(116,128,231)] flex items-center justify-center text-xl text-white h-9">
